@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PexalDev
 - 👀 I’m interested in Eat, Coding, Sleep
-- 🌱 I’m currently learning React Native, Node Js, CodeIgneiter, Java, React
+- 🌱 I’m currently learning React Native, Node Js, CodeIgneiter, Java, React, PHP, Laravel, Rust, Phoneix, Flutter
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
